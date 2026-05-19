@@ -1,8 +1,6 @@
 package com.thiagosilva.workshopmongo.resources;
 
 import com.thiagosilva.workshopmongo.domain.Post;
-import com.thiagosilva.workshopmongo.domain.User;
-import com.thiagosilva.workshopmongo.dto.UserDTO;
 import com.thiagosilva.workshopmongo.services.PostService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
